@@ -7,7 +7,9 @@
 - [phpstorm-plugin-core-search](https://github.com/aogg/phpstorm-plugin-core-search) 
 - [copy-git-ignore](https://github.com/aogg/copy-git-ignore) 
 - [sqlLogProxy](https://github.com/aogg/sqlLogProxy) 
-- [tcp-proxy-base64 ](https://github.com/aogg/tcp-proxy-base64 ) 
+- [tcp-proxy-base64](https://github.com/aogg/tcp-proxy-base64) 
+- [composer-PHPUnit-ThinkPHP](https://github.com/aogg/composer-PHPUnit-ThinkPHP) 
+- [docker-finderweb](https://github.com/aogg/docker-finderweb) 
 
 
 

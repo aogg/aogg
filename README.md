@@ -13,7 +13,7 @@
 - [proxy-cache](https://github.com/aogg/proxy-cache)
 
 
-# fork项目
+# fork后定制项目
 - https://github.com/aogg/dsh-git-idea
 - https://github.com/aogg/SNIProxy
 - https://github.com/aogg/DSH-better-sidebar

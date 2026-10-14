@@ -10,11 +10,13 @@
 - [tcp-proxy-base64](https://github.com/aogg/tcp-proxy-base64) 
 - [composer-PHPUnit-ThinkPHP](https://github.com/aogg/composer-PHPUnit-ThinkPHP) 
 - [docker-finderweb](https://github.com/aogg/docker-finderweb)
+- [proxy-cache](https://github.com/aogg/proxy-cache)
 
 
 # fork项目
 - https://github.com/aogg/dsh-git-idea
 - https://github.com/aogg/SNIProxy
+- https://github.com/aogg/DSH-better-sidebar
 
 
 

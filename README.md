@@ -18,6 +18,7 @@
 - https://github.com/aogg/SNIProxy
 - https://github.com/aogg/DSH-better-sidebar
 - https://github.com/aogg/dsh-resume-on-restart
+- https://github.com/aogg/dsh-im
 
 
 

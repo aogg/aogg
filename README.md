@@ -19,6 +19,8 @@
 - https://github.com/aogg/DSH-better-sidebar
 - https://github.com/aogg/dsh-resume-on-restart
 - https://github.com/aogg/dsh-im
+- https://github.com/aogg/WebAI2API
+- https://github.com/aogg/opencode-to-openai
 
 
 
